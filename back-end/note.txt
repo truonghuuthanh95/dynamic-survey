@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=10.200.6.172;Database=DynamicSurveyDB;User Id=sa;Password=Meocon0710@;" Microsoft.EntityFrameworkCore.SqlServer -o  Models
